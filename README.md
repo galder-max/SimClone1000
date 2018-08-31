@@ -3,7 +3,7 @@
 ## Installation
 There is no installation required.
 ### Dependencies
-R libraries _parallel_ and _simclone_ (github.com/sdentro/simclone)[github.com/sdentro/simclone]
+R libraries _parallel_ and _simclone_ [github.com/sdentro/simclone](github.com/sdentro/simclone)
 A slurm-based cluster to submit the runs as jobs in _submitSimulateAll.R_
 
 ## Run pipelines in R
