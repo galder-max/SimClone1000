@@ -16,3 +16,6 @@ run _submitSimulateAll.R_ to simulate all tumours from the grid design (require 
 > Rscript submitSimulateAll.R
 
 This will submit one job per simulated sample on a slurm-based cluster.
+
+## Output
+Each sample run will write the outputs generate by the _simclone_ main function [github.com/sdentro/simclone](github.com/sdentro/simclone)  
